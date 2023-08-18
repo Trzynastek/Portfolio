@@ -30,7 +30,7 @@ neofetch = {
     text: [
         '/magenta/MateuszSocha@trzynu/end/',
         '-------------------------------------------------',
-        '/blue/Age/end/: 17',
+        '/blue/Age/end/: 18',
         '/blue/Country/end/: Poland',
         '/blue/Languages/end/: English, Polish',
         '/blue/Apps/end/: VSCode, AdobeXD, Figma, Blender, Blockbench',
@@ -59,7 +59,7 @@ msg = {
     intro: `/magenta/<p class="ascii">█ █ █▀▀ █   █   █▀█     █ █ █ █▀█ █▀█ █   █▀▄ █<br>█▀█ ██▄ █▄▄ █▄▄ █▄█ █   ▀▄▀▄▀ █▄█ █▀▄ █▄▄ █▄▀ ▄</p><br>
             /end//b/This is a interactive terminal style portfolio website developed by/green/ ☛ <span style="cursor: pointer;" onclick="location.href='https://github.com/Trzynastek'">Trzynu</span>/end/<br>
             /yellow/🛈/end/ Type/magenta/ help/end/ to display list of all aviable commands./end/`,
-    about: `/b/My name is Trzynu, I'm a self-taught front-end developer and graphic designer.<br>
+    about: `/b/I'm Trzynu, a self-taught front-end developer and graphic designer.<br>
             I'm currently studying at a technical school in Poland.<br>
             My goal is to become a front-end developer /end/`,
     credits: `/b//magenta/Website developed by /green/ ☛ <span style="cursor: pointer;" onclick="location.href='https://github.com/Trzynastek'">Trzynu</span>/end/`,
