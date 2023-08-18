@@ -33,10 +33,10 @@ neofetch = {
         '/blue/Age/end/: 18',
         '/blue/Country/end/: Poland',
         '/blue/Languages/end/: English, Polish',
-        '/blue/Apps/end/: VSCode, AdobeXD, Figma, Blender, Blockbench',
+        '/blue/Apps/end/: VSCode, AdobeXD, Lunacy, Blender',
         '/blue/Skills/end/: HTML, CSS, JavaScript, Python, UI Design',
         '/blue/GitHub/end/: <a href="https://github.com/Trzynstek">https://github.com/Trzynstek</a>',
-        '/blue/Discord/end/: Trzynu#3121',
+        '/blue/Discord/end/: trzynu',
     ]
 }
 msg = {
