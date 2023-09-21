@@ -1,5 +1,6 @@
 terminal = document.getElementById('terminal')
 document.addEventListener("keydown", function(e) {
+    console.log(loc)
     if (e.key == 'Backspace') {
         if (terminal.innerHTML.charAt(terminal.innerHTML.length - 1) != '>' && loc > 0) {
             remove()
