@@ -1,7 +1,7 @@
 terminal = document.getElementById('terminal')
 document.addEventListener("keydown", function(e) {
     if (e.key == 'Backspace') {
-        if (terminal.innerHTML.charAt(terminal.innerHTML.length - 1) != '>') {
+        if (terminal.innerHTML.charAt(terminal.innerHTML.length - 1) != '>' && loc > 0) {
             remove()
             cursor('blink')
         }
